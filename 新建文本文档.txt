@@ -1,0 +1,20 @@
+react的包如何下载的步骤：
+1、npx create-react-app 包名
+2、npm i axios  ||yarn add axios
+3、npm i react-router-dom //路由
+4、npm i react-redux  redux  //redux 的包
+5、npm i mockjs //数据
+6、npm i antd
+last: yarn start //起服务 npm run start
+yarn eject  npm i eject
+
+
+
+
+vue的包
+1、vue create 包名
+yarn serve //起服务 npm run serve
+
+
+
+
